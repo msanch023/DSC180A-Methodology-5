@@ -1,4 +1,3 @@
-# My Static Website
 
 **Name**: Marco Sanchez
 **Email**: mas023@ucsd.edu 
