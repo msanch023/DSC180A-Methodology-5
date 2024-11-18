@@ -9,7 +9,7 @@
 
 ## Prompts
 **What is the most interesting topic covered in your domain this quarter?**  
-The most interesting topic we have covered this quarter is the Majorana experiment
+The most interesting topic we have covered this quarter is the Majorana experiment.
 
 **Describe a potential investigation you would like to pursue for your Quarter 2 Project.**  
 A potential investigation that I would like to pursue for my quarter 2 project is whether the imbalance of light and dark matter has an affect on humans.
